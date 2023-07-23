@@ -1,5 +1,5 @@
 #Theme: Linear models and data exploration
-#Authoer: Tingwei Adeck
+#Author: Tingwei Adeck
 #Input data: data.Q3.csv
 #Output: 
 #1. R function called unique identifier developed while working on the project
